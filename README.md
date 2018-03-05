@@ -1,8 +1,10 @@
 ## Welcome to 淘贝壳大师店 Pages 欢迎来到淘贝壳大师店
 
-You can use the [editor on GitHub](https://github.com/zhouxq/sites/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+使用下面的地址[网店链接](https://96396.taobao.com/)访问我们的店.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
 
 ### Markdown
 
